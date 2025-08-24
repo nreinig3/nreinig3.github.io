@@ -10,4 +10,4 @@ Data Specialist @ IHME
 ### Projects 
 - IHME project?
 - School project #1
-- School project # 2
+- School project #2
