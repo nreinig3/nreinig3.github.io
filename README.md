@@ -16,7 +16,7 @@ Computational Analytics, MS (Georgia Tech)
 - Interviewed and evaluated 20+ candidates for data analyst roles, improving team hiring efficiency
 
 ### Projects
-#### Industrial Anomaly Detection Using Custom Transformer Architecture (Practicum project for MS degree)
+#### [Industrial Anomaly Detection Using Custom Transformer Architecture (Practicum project for MS degree)](https://github.com/nreinig3/anomaly-detection-project/blob/main/README.md).
 - Developed a Transformer-based deep learning model from scratch to detect anomalies in industrial manufacturing processes for Novelis, a major metal manufacturer
 - Achieved 95% detection accuracy for anomalous images by incorporating best practices from recent literature on computer vision and industrial IoT analytics
 - Experimented with Variational Autoencoders (VAEs) for comparative analysis, optimizing model robustness.
