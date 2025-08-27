@@ -25,6 +25,6 @@ Computational Analytics, MS (Georgia Tech)
 - Helped to design a natural language processing (NLP) tool that ingests job search queries and leverages an LLM model (Doc2Vec and Big Query ML) to match them with relevant job postings
 - Created a knowledge graph-style concept map using JavaScript and D3 to visually summarize top job matches, improving user interpretability. Tool was deployed using Flask for interactive user testing
 
-#### NYC Real Estate Price Prediction Model (Project for MGT 6203)
+#### [NYC Real Estate Price Prediction Model (Project for MGT 6203)](https://github.com/nreinig3/nyc-housing-price-forecasting/blob/main/README.md)
 - Helped to develop a predictive modeling system using multilinear regression as part of a team effort to forecast real estate prices in New York City, by performing feature engineering and EDA on housing datasets to identify key pricing drivers (e.g., location, square footage, amenities)
 - Achieved an R² score of 0.81 for our price model, while identifying potential problems with overfitting that may have contributed to difficulties in accurate price forecasting
