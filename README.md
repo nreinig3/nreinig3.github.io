@@ -22,7 +22,7 @@ Computational Analytics, MS (Georgia Tech)
 - Experimented with Variational Autoencoders (VAEs) for comparative analysis, optimizing model robustness.
 
 #### [LLM-Powered Job Matching & Concept Mapping Tool (Project for CSE 6242)](https://github.com/nreinig3/job-matcher-webapp/blob/main/README.md)
-- Helped to design a natural language processing (NLP) tool that ingests job search queries and leverages an LLM model (Doc2Vec and Big Query ML) to match them with relevant job postings
+- Helped to design a natural language processing (NLP) tool that ingests job search queries and leverages text embedding models (Doc2Vec and BigQuery ML's gecko model) to match them with relevant job postings
 - Created a knowledge graph-style concept map using JavaScript and D3 to visually summarize top job matches, improving user interpretability. Tool was deployed using Flask for interactive user testing
 
 #### [NYC Real Estate Price Prediction Model (Project for MGT 6203)](https://github.com/nreinig3/nyc-housing-price-forecasting/blob/main/README.md)
