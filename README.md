@@ -33,6 +33,6 @@ knowledge base (CSVs + PDFs); deployed with Streamlit
 context), and zero hallucinations. Identified one retrieval failure (unrecognized clinical trial ID) as
 improvement area
 
-#### [NYC Real Estate Price Prediction Model (Project for MGT 6203)]
+#### NYC Real Estate Price Prediction Model (Project for MGT 6203)
 - Helped to develop a predictive modeling system using multilinear regression as part of a team effort to forecast real estate prices in New York City, by performing feature engineering and EDA on housing datasets to identify key pricing drivers (e.g., location, square footage, amenities)
 - Achieved an R² score of 0.81 for our price model, while identifying potential problems with overfitting that may have contributed to difficulties in accurate price forecasting
