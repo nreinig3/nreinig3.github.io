@@ -26,7 +26,12 @@ Computational Analytics, MS (Georgia Tech)
 - Created a knowledge graph-style concept map using JavaScript and D3 to visually summarize top job matches, improving user interpretability. Tool was deployed using Flask for interactive user testing
 
 #### [RAG-Powered Chatbot for Multiple Sclerosis Research ](https://github.com/nreinig3/MS-research-assisant-chatbot/blob/main/README.md)
-- 
+- Built LLM chatbot answering user questions about MS treatments and clinical trials using curated
+knowledge base (CSVs + PDFs); deployed with Streamlit
+- Used prompt engineering to ground answers, reduce hallucinations, and include healthcare disclaimers
+- Evaluated on MS-related test set: 100% accurate responses (including 2 correct refusals due to missing
+context), and zero hallucinations. Identified one retrieval failure (unrecognized clinical trial ID) as
+improvement area
 
 #### [NYC Real Estate Price Prediction Model (Project for MGT 6203)]
 - Helped to develop a predictive modeling system using multilinear regression as part of a team effort to forecast real estate prices in New York City, by performing feature engineering and EDA on housing datasets to identify key pricing drivers (e.g., location, square footage, amenities)
